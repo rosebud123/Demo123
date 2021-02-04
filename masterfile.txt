@@ -6,3 +6,4 @@ this is a change in hub
 
 git stash
 
+new stash line added
